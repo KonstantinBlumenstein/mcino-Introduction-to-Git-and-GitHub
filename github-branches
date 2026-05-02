@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert d0d1878 [origin/bug-fix-revert] Revert "Fix README footer year"
+  bug-fix-typo   9589ae2 [origin/bug-fix-typo] Fix README footer year
+  main           6adb2dc [origin/main] 321
