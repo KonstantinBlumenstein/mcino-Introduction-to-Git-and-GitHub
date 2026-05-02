@@ -1,0 +1,4 @@
+git branch -vv
+  bug-fix-revert 2c2c4f4 [origin/bug-fix-revert] dsa
+  bug-fix-typo   9589ae2 [origin/bug-fix-typo] Fix README footer year
+* main           6adb2dc [origin/main] 321
